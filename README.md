@@ -16,44 +16,41 @@
   </h3>
 </div>
 
-## Language Support
 
-You can use Wasmtime from a variety of different languages through embeddings of
-the implementation:
+## Hello Developer's & visitors
 
-* **[Rust]** - the [`wasmtime` crate]
-* **[C]** - the [`wasm.h`, `wasi.h`, and `wasmtime.h` headers][c-headers], [CMake](crates/c-api/CMakeLists.txt) or [`wasmtime` Conan package]
-* **C++** - the [`wasmtime-cpp` repository][wasmtime-cpp] or use [`wasmtime-cpp` Conan package]
-* **[Python]** - the [`wasmtime` PyPI package]
-* **[.NET]** - the [`Wasmtime` NuGet package]
-* **[Go]** - the [`wasmtime-go` repository]
+If you find an error or think you've a better way to
+solve some of them, feel
+free to open an issue at <https://github.com/K-P-S-S-S-N-V/Pandas_Tasks_Overview/issues>.
+File automatically generated. See the documentation to update questions/answers/hints programmatically.
 
-[Rust]: https://bytecodealliance.github.io/wasmtime/lang-rust.html
-[C]: https://bytecodealliance.github.io/wasmtime/examples-c-embed.html
-[`wasmtime` crate]: https://crates.io/crates/wasmtime
-[c-headers]: https://bytecodealliance.github.io/wasmtime/c-api/
-[Python]: https://bytecodealliance.github.io/wasmtime/lang-python.html
-[`wasmtime` PyPI package]: https://pypi.org/project/wasmtime/
-[.NET]: https://bytecodealliance.github.io/wasmtime/lang-dotnet.html
-[`Wasmtime` NuGet package]: https://www.nuget.org/packages/Wasmtime
-[Go]: https://bytecodealliance.github.io/wasmtime/lang-go.html
-[`wasmtime-go` repository]: https://pkg.go.dev/github.com/bytecodealliance/wasmtime-go
-[wasmtime-cpp]: https://github.com/bytecodealliance/wasmtime-cpp
-[`wasmtime` Conan package]: https://conan.io/center/wasmtime
-[`wasmtime-cpp` Conan package]: https://conan.io/center/wasmtime-cpp
+## Language Support:
 
-## Documentation
+* **[python]** 
 
-[📚 Read the Wasmtime guide here! 📚][guide]
+[python]: https://www.python.org/
 
-The [wasmtime guide][guide] is the best starting point to learn about what
-Wasmtime can do for you or help answer your questions about Wasmtime. If you're
-curious in contributing to Wasmtime, [it can also help you do
-that][contributing]!
+## Library imported from python:
 
-[contributing]: https://bytecodealliance.github.io/wasmtime/contributing.html
-[guide]: https://bytecodealliance.github.io/wasmtime
+* **[Pandas]** 
+
+[pandas]: https://pandas.pydata.org/
+
+## IDE Used:
+
+* **[Google Colab]**
+
+[Google Colab]: https://colab.research.google.com/
 
 ---
 
-It's Wasmtime.
+It's Poorna Venkatesh kadali
+
+<h3>
+    <a href="https://www.linkedin.com/in/venkatesh-kadali/">Reach Out to me at LinkedIn</a>
+    <span> | </span>
+    <a href="https://github.com/K-P-S-S-S-N-V">Reach Out to me on GitHub</a>
+    <span> | </span>
+    <a href="https://www.kaggle.com/poornakadali">Reach Out to me on Kaggle</a>
+    <span>  </span>    
+</h3>
