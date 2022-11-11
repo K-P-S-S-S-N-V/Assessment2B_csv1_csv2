@@ -21,7 +21,7 @@
 
 If you find an error or think you've a better way to
 solve some of them, feel
-free to open an issue at <https://github.com/K-P-S-S-S-N-V/Pandas_Tasks_Overview/issues>.
+free to open an issue at <https://github.com/K-P-S-S-S-N-V/Assessment2B_csv1_csv2/issues>.
 File automatically generated. See the documentation to update questions/answers/hints programmatically.
 
 ## Language Support:
@@ -33,8 +33,12 @@ File automatically generated. See the documentation to update questions/answers/
 ## Library imported from python:
 
 * **[Pandas]** 
+* **[Numpy]**
+* **[Matplotlib]**
 
 [pandas]: https://pandas.pydata.org/
+[Numpy]: https://numpy.org/
+[Matplotlib]: https://matplotlib.org/
 
 ## IDE Used:
 
