@@ -6,9 +6,9 @@
     <a href="https://pandas.pydata.org/">library</a></strong>
   </p>
 
-  <strong>using <a href="https://github.com/K-P-S-S-S-N-V/Assessment2B_csv1_csv2/blob/main/college_1.csv">Csv Files-1 </a>as data</strong>
+  <strong>using <a href="https://github.com/K-P-S-S-S-N-V/Assessment2B_csv1_csv2/blob/main/college_1.csv">College  Csv Files-1 </a>as data</strong>
   
-  <strong>using <a href="https://github.com/K-P-S-S-S-N-V/Assessment2B_csv1_csv2/blob/main/college_2.csv">Csv Files-2 </a>as data</strong>
+  <strong>using <a href="https://github.com/K-P-S-S-S-N-V/Assessment2B_csv1_csv2/blob/main/college_2.csv">College Csv Files-2 </a>as data</strong>
 
   <h3>
     <a href="https://pandas.pydata.org/docs/user_guide/index.html">User Pandas library - Guide</a>
